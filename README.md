@@ -12,7 +12,7 @@ Its take some time. When it's complete, your UI is ready for showing.For this ru
 ```sh
 npm run dev
 ```
-Then it's show a url like http://locashost:3000. Click and Go there for check.I hope everything alright.Our fontend is ready.Now work with backend.For this we use a API.Google gemini API help us as its free (ChatGPT API is paid).Now just Copy and paste it on VS code terminal.
+Then it's show a url like http://localhost:3000. Click and Go there for check.I hope everything alright.Our fontend is ready.Now work with backend.For this we use a API.Google gemini API help us as its free (ChatGPT API is paid).Now just Copy and paste it on VS code terminal.
 
 ```sh
 npm install ai @assistant-ui/react-ai-sdk @ai-sdk/google
@@ -46,7 +46,7 @@ It's time to play......... go to VS code terminal and paste it.
 ```sh
 npm run dev
 ```
-Then it's show a url like http://locashost:3000. YES!! you done your own version of ChatGPT.IF you want to share the project then you have to deploy this project.
+Then it's show a url like http://localhost:3000. YES!! you done your own version of ChatGPT.IF you want to share the project then you have to deploy this project.
 
 
 
