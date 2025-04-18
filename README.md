@@ -46,7 +46,7 @@ It's time to play......... go to VS code terminal and paste it.
 ```sh
 npm run dev
 ```
-Then it's show a url like http://locashost:3000.YES!! you done your own version of ChatGPT.IF you want to share the project then you have to deploy this project.
+Then it's show a url like http://locashost:3000. YES!! you done your own version of ChatGPT.IF you want to share the project then you have to deploy this project.
 
 
 
